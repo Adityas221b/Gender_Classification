@@ -1,14 +1,5 @@
 
 
-
-# 🧠 Comsys Hackathon 2025 — Face Intelligence Challenge
-
-Welcome to our submission for the **Comsys Hackathon**! This repository contains cutting-edge solutions for **Task A (Gender Classification)** and **Task B (Distortion-Resistant Face Recognition)** using the latest AI architectures, augmentation strategies, and robust evaluation.
-
----
-
-## 📁 Tasks Overview
-
 ### ✅ Task A — Gender Classification
 A deep learning model trained to classify face images into **Male** or **Female**, even under **blur, lighting, or occlusion distortions**.
 
